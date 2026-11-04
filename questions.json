@@ -1,0 +1,517 @@
+[
+  {
+    "id": "contracts-1",
+    "subject": "contracts",
+    "question": {
+      "en": "Article 2 of the Uniform Commercial Code (UCC) governs contracts for:",
+      "uk": "Стаття 2 Єдиного комерційного кодексу США (UCC) регулює договори щодо:"
+    },
+    "options": {
+      "en": ["The sale of goods", "The sale of real property", "Employment services", "Construction services"],
+      "uk": ["Продажу товарів", "Продажу нерухомого майна", "Трудових послуг", "Будівельних послуг"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "UCC Article 2 applies to transactions in goods, meaning things that are movable at the time they are identified to the contract. Contracts for real estate and for services are governed by the common law.",
+      "uk": "Стаття 2 UCC застосовується до угод щодо товарів, тобто речей, які є рухомими на момент їх ідентифікації в договорі. Договори щодо нерухомості та послуг регулюються загальним правом (common law)."
+    }
+  },
+  {
+    "id": "contracts-2",
+    "subject": "contracts",
+    "question": {
+      "en": "Under the common law mailbox rule, a properly addressed and stamped acceptance is generally effective when it is:",
+      "uk": "Згідно з «правилом поштової скриньки» (mailbox rule) загального права належно адресований і оплачений акцепт зазвичай набирає чинності в момент, коли його:"
+    },
+    "options": {
+      "en": ["Dispatched by the offeree", "Received by the offeror", "Read by the offeror", "Acknowledged in writing by the offeror"],
+      "uk": ["Відправив адресат оферти", "Отримав оферент", "Прочитав оферент", "Письмово підтвердив оферент"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "The mailbox rule makes an acceptance effective upon dispatch, unless the offer provides otherwise. A revocation of the offer, by contrast, is effective only when the offeree receives it.",
+      "uk": "За правилом поштової скриньки акцепт набирає чинності з моменту відправлення, якщо оферта не передбачає іншого. Натомість відкликання оферти набирає чинності лише після того, як його отримає адресат."
+    }
+  },
+  {
+    "id": "contracts-3",
+    "subject": "contracts",
+    "question": {
+      "en": "Halfway through a job, a contractor demands extra pay to finish the same work, and the owner promises to pay it. Under the traditional pre-existing duty rule, the owner's promise is:",
+      "uk": "Виконавши половину робіт, підрядник вимагає додаткову оплату за завершення тієї самої роботи, і власник обіцяє її сплатити. Згідно з традиційним правилом про наявний обов’язок (pre-existing duty rule) обіцянка власника:"
+    },
+    "options": {
+      "en": ["Unenforceable for lack of consideration", "Enforceable because the owner agreed voluntarily", "Enforceable because the owner received a benefit", "Void as against public policy"],
+      "uk": ["Не підлягає примусовому виконанню через відсутність зустрічного задоволення", "Підлягає виконанню, бо власник погодився добровільно", "Підлягає виконанню, бо власник отримав вигоду", "Нікчемна як така, що суперечить публічному порядку"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "A promise to do what one is already legally obligated to do is not consideration, so a modification without new consideration is unenforceable under the common law rule. UCC Article 2 differs: a good-faith modification of a sale-of-goods contract needs no consideration.",
+      "uk": "Обіцянка виконати те, що особа вже зобов’язана виконати, не є зустрічним задоволенням (consideration), тому за загальним правом зміна договору без нового зустрічного задоволення не підлягає виконанню. У статті 2 UCC інакше: добросовісна зміна договору купівлі-продажу товарів не потребує зустрічного задоволення."
+    }
+  },
+  {
+    "id": "contracts-4",
+    "subject": "contracts",
+    "question": {
+      "en": "Which of these contracts must be evidenced by a signed writing under the Statute of Frauds?",
+      "uk": "Який із цих договорів згідно зі Статутом про шахрайство (Statute of Frauds) має бути підтверджений підписаним письмовим документом?"
+    },
+    "options": {
+      "en": ["A contract to sell a parcel of land", "A contract to sell a used bicycle for $300", "A six-month contract to paint a house", "An at-will employment agreement"],
+      "uk": ["Договір продажу земельної ділянки", "Договір продажу вживаного велосипеда за $300", "Шестимісячний договір на фарбування будинку", "Трудовий договір, який можна розірвати будь-коли (at-will)"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "The Statute of Frauds covers contracts for an interest in land, contracts that cannot be performed within one year, sales of goods for $500 or more, suretyship promises, and promises made in consideration of marriage. A six-month service contract can be performed within a year.",
+      "uk": "Статут про шахрайство охоплює договори щодо прав на землю, договори, які неможливо виконати протягом одного року, продаж товарів на суму від $500, договори поруки та обіцянки, дані з огляду на шлюб. Шестимісячний договір про послуги можна виконати протягом року."
+    }
+  },
+  {
+    "id": "contracts-5",
+    "subject": "contracts",
+    "question": {
+      "en": "When a written contract is fully integrated, the parol evidence rule bars evidence of:",
+      "uk": "Якщо письмовий договір повністю інтегрований, правило про усні докази (parol evidence rule) забороняє докази:"
+    },
+    "options": {
+      "en": ["Prior or contemporaneous agreements offered to add to or contradict its terms", "Modifications agreed after the contract was signed", "Fraud in the formation of the contract", "The meaning of an ambiguous term"],
+      "uk": ["Попередніх або одночасних домовленостей, що доповнюють чи суперечать його умовам", "Змін, погоджених після підписання договору", "Шахрайства під час укладення договору", "Значення неоднозначної умови"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "The parol evidence rule excludes prior or contemporaneous extrinsic terms that would add to or vary a fully integrated writing. It does not bar evidence of later modifications, of defenses such as fraud or mistake, or evidence offered to interpret an ambiguity.",
+      "uk": "Правило про усні докази виключає попередні або одночасні зовнішні умови, які доповнювали б чи змінювали повністю інтегрований документ. Воно не забороняє доказів пізніших змін, заперечень на кшталт шахрайства чи помилки, а також доказів для тлумачення неоднозначної умови."
+    }
+  },
+
+  {
+    "id": "torts-1",
+    "subject": "torts",
+    "question": {
+      "en": "Which of the following is NOT an element of a negligence claim?",
+      "uk": "Що з наведеного НЕ є елементом позову про недбалість (negligence)?"
+    },
+    "options": {
+      "en": ["Intent to cause harm", "A duty of care", "Breach of that duty", "Actual and proximate causation"],
+      "uk": ["Умисел заподіяти шкоду", "Обов’язок дбайливості", "Порушення цього обов’язку", "Фактичний і безпосередній причинний зв’язок"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Negligence requires duty, breach, causation (actual and proximate), and damages. Intent is the hallmark of intentional torts, not negligence.",
+      "uk": "Недбалість вимагає обов’язку, його порушення, причинного зв’язку (фактичного та безпосереднього) і шкоди. Умисел є ознакою умисних деліктів, а не недбалості."
+    }
+  },
+  {
+    "id": "torts-2",
+    "subject": "torts",
+    "question": {
+      "en": "As a prank, Dana pulls a chair away just as Eli sits down. Eli hits the floor and is injured. Dana is most likely liable for:",
+      "uk": "Жартуючи, Дана відсуває стілець саме тоді, коли Елі сідає. Елі падає на підлогу й травмується. Найімовірніше, Дана відповідає за:"
+    },
+    "options": {
+      "en": ["Battery, because Dana knew contact with the floor was substantially certain", "Assault, because Eli was frightened", "No tort, because Dana meant no harm", "False imprisonment"],
+      "uk": ["Побої (battery), бо Дана знала, що контакт із підлогою майже неминучий", "Погрозу (assault), через переляк Елі", "Жоден делікт, бо Дана не мала наміру завдати шкоди", "Незаконне позбавлення волі (false imprisonment)"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Battery requires intent to cause a harmful or offensive contact, and such contact must result. Intent to injure is not required: knowing with substantial certainty that the contact will occur is enough (Garratt v. Dailey). Assault requires apprehension of an imminent contact, which Eli did not have.",
+      "uk": "Побої (battery) вимагають умислу на шкідливий чи образливий контакт і настання такого контакту. Умисел саме травмувати не потрібен: достатньо знати з істотною певністю, що контакт відбудеться (Garratt v. Dailey). Погроза (assault) вимагає усвідомлення неминучого контакту, якого в Елі не було."
+    }
+  },
+  {
+    "id": "torts-3",
+    "subject": "torts",
+    "question": {
+      "en": "Res ipsa loquitur allows a jury to infer negligence when:",
+      "uk": "Доктрина res ipsa loquitur («річ говорить сама за себе») дозволяє присяжним зробити висновок про недбалість, коли:"
+    },
+    "options": {
+      "en": ["The accident ordinarily does not happen without negligence and the instrumentality was in the defendant's control", "The defendant violated a criminal statute", "The plaintiff was entirely free of fault", "The defendant carries liability insurance"],
+      "uk": ["Такий випадок зазвичай не стається без недбалості, а знаряддя перебувало під контролем відповідача", "Відповідач порушив кримінальний закон", "Позивач зовсім не був винен", "Відповідач має страхування відповідальності"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Res ipsa loquitur applies where the type of accident usually does not occur without negligence and the defendant had exclusive control of the instrumentality. It permits, but does not require, an inference of negligence. Violation of a statute is a separate doctrine: negligence per se.",
+      "uk": "Res ipsa loquitur застосовується, коли такий вид випадку зазвичай не трапляється без недбалості, а відповідач мав винятковий контроль над знаряддям. Доктрина дозволяє, але не зобов’язує дійти висновку про недбалість. Порушення закону стосується іншої доктрини: negligence per se."
+    }
+  },
+  {
+    "id": "torts-4",
+    "subject": "torts",
+    "question": {
+      "en": "A plaintiff suffers $100,000 in damages and is found 60% at fault. In a pure comparative negligence jurisdiction, the plaintiff recovers:",
+      "uk": "Позивач зазнав шкоди на $100 000, а його частку вини визначено в 60%. У юрисдикції з чистою порівняльною недбалістю (pure comparative negligence) позивач отримає:"
+    },
+    "options": {
+      "en": ["$40,000", "$0", "$60,000", "$100,000"],
+      "uk": ["$40 000", "$0", "$60 000", "$100 000"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Under pure comparative negligence, recovery is reduced by the plaintiff's share of fault, however large: $100,000 × 40% = $40,000. In a modified comparative negligence jurisdiction (50% or 51% bar), this plaintiff would recover nothing.",
+      "uk": "За чистої порівняльної недбалості відшкодування зменшується на частку вини позивача, якою б великою вона не була: $100 000 × 40% = $40 000. У юрисдикції з модифікованою порівняльною недбалістю (поріг 50% або 51%) цей позивач не отримав би нічого."
+    }
+  },
+  {
+    "id": "torts-5",
+    "subject": "torts",
+    "question": {
+      "en": "Which activity is most likely to subject the actor to strict liability?",
+      "uk": "Яка діяльність найімовірніше тягне сувору (безвинну) відповідальність (strict liability)?"
+    },
+    "options": {
+      "en": ["Blasting with explosives near a residential area", "Driving a car within the speed limit", "Running a restaurant", "Mowing a lawn"],
+      "uk": ["Вибухові роботи поблизу житлового району", "Керування автомобілем без перевищення швидкості", "Робота ресторану", "Косіння газону"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Abnormally dangerous activities, such as blasting, carry strict liability: the actor is liable for resulting harm even after exercising the utmost care. Ordinary activities are judged under negligence.",
+      "uk": "Надзвичайно небезпечна діяльність, як-от вибухові роботи, тягне сувору відповідальність: особа відповідає за шкоду навіть тоді, коли діяла з максимальною обережністю. Звичайна діяльність оцінюється за стандартом недбалості."
+    }
+  },
+
+  {
+    "id": "conlaw-1",
+    "subject": "conlaw",
+    "question": {
+      "en": "Which case established the power of federal courts to review the constitutionality of acts of Congress?",
+      "uk": "Яка справа закріпила повноваження федеральних судів перевіряти конституційність актів Конгресу?"
+    },
+    "options": {
+      "en": ["Marbury v. Madison (1803)", "McCulloch v. Maryland (1819)", "Gibbons v. Ogden (1824)", "Brown v. Board of Education (1954)"],
+      "uk": ["Marbury v. Madison (1803)", "McCulloch v. Maryland (1819)", "Gibbons v. Ogden (1824)", "Brown v. Board of Education (1954)"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Marbury v. Madison established judicial review. McCulloch dealt with implied powers and state taxation of a federal bank, Gibbons with the commerce power, and Brown with racial segregation in public schools.",
+      "uk": "Справа Marbury v. Madison закріпила судовий конституційний контроль (judicial review). McCulloch стосувалася підрозумілих повноважень і оподаткування штатом федерального банку, Gibbons — повноважень щодо торгівлі, а Brown — расової сегрегації в державних школах."
+    }
+  },
+  {
+    "id": "conlaw-2",
+    "subject": "conlaw",
+    "question": {
+      "en": "To have standing under Article III, a plaintiff must show:",
+      "uk": "Щоб мати процесуальну правосуб’єктність (standing) за статтею III, позивач має довести:"
+    },
+    "options": {
+      "en": ["Injury in fact, causation, and redressability", "A federal question and complete diversity", "Exhaustion of state remedies", "That the case raises an issue of public importance"],
+      "uk": ["Фактичну шкоду, причинний зв’язок і можливість її усунення судом", "Федеральне питання та повну різність громадянства", "Вичерпання засобів захисту на рівні штату", "Що справа порушує питання суспільної ваги"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Standing requires a concrete and particularized injury in fact, fairly traceable to the defendant's conduct, that a favorable decision is likely to redress (Lujan v. Defenders of Wildlife).",
+      "uk": "Standing вимагає конкретної та індивідуалізованої фактичної шкоди, що обґрунтовано пов’язана з поведінкою відповідача і яку, імовірно, усуне сприятливе судове рішення (Lujan v. Defenders of Wildlife)."
+    }
+  },
+  {
+    "id": "conlaw-3",
+    "subject": "conlaw",
+    "question": {
+      "en": "A state law that classifies people by race is reviewed under:",
+      "uk": "Закон штату, що класифікує людей за расою, перевіряється за стандартом:"
+    },
+    "options": {
+      "en": ["Strict scrutiny", "Intermediate scrutiny", "Rational basis review", "No heightened review, if the law is facially neutral"],
+      "uk": ["Суворої перевірки (strict scrutiny)", "Проміжної перевірки (intermediate scrutiny)", "Раціональної підстави (rational basis)", "Без посиленої перевірки, якщо закон формально нейтральний"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Racial classifications are suspect and must be narrowly tailored to a compelling government interest. Sex-based classifications receive intermediate scrutiny, and most economic regulations receive rational basis review.",
+      "uk": "Расові класифікації є підозрілими й мають бути вузько спрямовані на досягнення нагальної державної мети. Класифікації за статтю проходять проміжну перевірку, а більшість економічних регулювань — перевірку на раціональну підставу."
+    }
+  },
+  {
+    "id": "conlaw-4",
+    "subject": "conlaw",
+    "question": {
+      "en": "A state taxes milk produced out of state at a higher rate than milk produced in state. The tax is most likely:",
+      "uk": "Штат оподатковує молоко, вироблене за його межами, за вищою ставкою, ніж молоко місцевого виробництва. Найімовірніше, такий податок:"
+    },
+    "options": {
+      "en": ["Unconstitutional under the dormant Commerce Clause", "Valid under the Tenth Amendment", "Valid because states have police power over food safety", "Unconstitutional under the Takings Clause"],
+      "uk": ["Неконституційний з огляду на «сплячу» клаузулу про торгівлю (dormant Commerce Clause)", "Чинний на підставі Десятої поправки", "Чинний, бо штати мають поліцейські повноваження щодо безпечності харчових продуктів", "Неконституційний з огляду на клаузулу про вилучення майна (Takings Clause)"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "A state law that discriminates against interstate commerce on its face is virtually per se invalid unless it serves a legitimate local purpose that cannot be achieved by nondiscriminatory means. The market-participant exception does not apply to taxation.",
+      "uk": "Закон штату, що відкрито дискримінує міжштатну торгівлю, майже автоматично недійсний, якщо лише він не слугує законній місцевій меті, якої неможливо досягти недискримінаційними засобами. Виняток для штату як учасника ринку (market participant) на оподаткування не поширюється."
+    }
+  },
+  {
+    "id": "conlaw-5",
+    "subject": "conlaw",
+    "question": {
+      "en": "A city ordinance bans political signs in public parks but allows commercial signs there. A court will most likely review it under:",
+      "uk": "Міська постанова забороняє політичні вивіски в громадських парках, але дозволяє там комерційні. Найімовірніше, суд перевірятиме її за стандартом:"
+    },
+    "options": {
+      "en": ["Strict scrutiny, because it is content-based", "Intermediate scrutiny, as a time, place, and manner rule", "Rational basis review", "The Lemon test"],
+      "uk": ["Суворої перевірки, бо обмеження залежить від змісту висловлювання", "Проміжної перевірки як правило щодо часу, місця й способу", "Раціональної підстави", "Тесту Lemon"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "A regulation that turns on the subject matter or message of speech is content-based and must satisfy strict scrutiny (Reed v. Town of Gilbert). Content-neutral time, place, and manner rules receive intermediate scrutiny. The Lemon test concerned the Establishment Clause and has been abandoned.",
+      "uk": "Регулювання, яке залежить від теми чи змісту висловлювання, є змістовим (content-based) і має витримати сувору перевірку (Reed v. Town of Gilbert). Змістово нейтральні правила щодо часу, місця й способу проходять проміжну перевірку. Тест Lemon стосувався клаузули про заборону встановлення релігії, і від нього відмовилися."
+    }
+  },
+
+  {
+    "id": "civpro-1",
+    "subject": "civpro",
+    "question": {
+      "en": "Federal diversity jurisdiction requires an amount in controversy that:",
+      "uk": "Федеральна юрисдикція на підставі різного громадянства (diversity jurisdiction) вимагає, щоб ціна позову:"
+    },
+    "options": {
+      "en": ["Exceeds $75,000, exclusive of interest and costs", "Is at least $75,000, including interest", "Exceeds $50,000", "Exceeds $100,000"],
+      "uk": ["Перевищувала $75 000 без урахування відсотків і судових витрат", "Становила щонайменше $75 000 з урахуванням відсотків", "Перевищувала $50 000", "Перевищувала $100 000"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "28 U.S.C. § 1332(a) requires the matter in controversy to exceed $75,000, exclusive of interest and costs. A claim for exactly $75,000 is not enough.",
+      "uk": "28 U.S.C. § 1332(a) вимагає, щоб предмет спору перевищував $75 000 без урахування відсотків і судових витрат. Вимоги рівно на $75 000 недостатньо."
+    }
+  },
+  {
+    "id": "civpro-2",
+    "subject": "civpro",
+    "question": {
+      "en": "A plaintiff from Ohio sues one defendant from Texas and one from Ohio in federal court on a $200,000 state-law claim. The court:",
+      "uk": "Позивач з Огайо подає до федерального суду позов на $200 000 на підставі права штату проти одного відповідача з Техасу та одного з Огайо. Суд:"
+    },
+    "options": {
+      "en": ["Lacks diversity jurisdiction, because diversity is not complete", "Has diversity jurisdiction, because one defendant is diverse", "Has federal question jurisdiction", "Has jurisdiction, because the amount exceeds $75,000"],
+      "uk": ["Не має юрисдикції за різним громадянством, бо різниця громадянства неповна", "Має юрисдикцію, бо один відповідач має інше громадянство", "Має юрисдикцію на підставі федерального питання", "Має юрисдикцію, бо сума перевищує $75 000"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Under Strawbridge v. Curtiss, diversity must be complete: no plaintiff may share citizenship with any defendant. The Ohio plaintiff and the Ohio defendant destroy diversity, and a state-law claim does not create federal question jurisdiction.",
+      "uk": "Згідно зі справою Strawbridge v. Curtiss різниця громадянства має бути повною: жоден позивач не може мати спільне громадянство з жодним відповідачем. Позивач і відповідач з Огайо руйнують diversity, а вимога за правом штату не створює юрисдикції на підставі федерального питання."
+    }
+  },
+  {
+    "id": "civpro-3",
+    "subject": "civpro",
+    "question": {
+      "en": "For diversity purposes, a corporation is a citizen of:",
+      "uk": "Для цілей diversity jurisdiction корпорація вважається громадянином:"
+    },
+    "options": {
+      "en": ["Every state where it is incorporated and the state of its principal place of business", "Only its state of incorporation", "Every state where it does business", "Every state where its shareholders live"],
+      "uk": ["Кожного штату, де її зареєстровано, і штату її основного місця діяльності", "Лише штату реєстрації", "Кожного штату, де вона веде бізнес", "Кожного штату, де живуть її акціонери"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Under § 1332(c)(1), a corporation is a citizen of every state of incorporation and of the state where it has its principal place of business, its nerve center (Hertz Corp. v. Friend). LLCs and partnerships, by contrast, take the citizenship of each of their members.",
+      "uk": "Згідно з § 1332(c)(1) корпорація є громадянином кожного штату реєстрації та штату, де розташоване її основне місце діяльності, тобто «нервовий центр» (Hertz Corp. v. Friend). Натомість LLC і партнерства мають громадянство кожного зі своїх учасників."
+    }
+  },
+  {
+    "id": "civpro-4",
+    "subject": "civpro",
+    "question": {
+      "en": "Under the Erie doctrine, a federal court hearing a state-law claim in diversity applies:",
+      "uk": "Згідно з доктриною Erie федеральний суд, розглядаючи вимогу за правом штату в порядку diversity, застосовує:"
+    },
+    "options": {
+      "en": ["State substantive law and federal procedural law", "Federal substantive and procedural law", "State substantive and procedural law", "General federal common law"],
+      "uk": ["Матеріальне право штату й федеральне процесуальне право", "Федеральне матеріальне й процесуальне право", "Матеріальне й процесуальне право штату", "Загальне федеральне загальне право (general common law)"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Erie Railroad v. Tompkins held there is no general federal common law: federal courts sitting in diversity apply state substantive law (including statutes of limitations and choice-of-law rules) and federal procedural law, such as the Federal Rules of Civil Procedure.",
+      "uk": "У справі Erie Railroad v. Tompkins суд визнав, що загального федерального common law не існує: федеральні суди в справах diversity застосовують матеріальне право штату (зокрема строки позовної давності та колізійні норми) і федеральне процесуальне право, як-от Федеральні правила цивільного процесу."
+    }
+  },
+  {
+    "id": "civpro-5",
+    "subject": "civpro",
+    "question": {
+      "en": "Under Federal Rule of Civil Procedure 12(a), unless service is waived, a defendant must serve an answer within:",
+      "uk": "Згідно з правилом 12(a) Федеральних правил цивільного процесу, якщо відповідач не відмовився від офіційного вручення, він має подати відповідь на позов протягом:"
+    },
+    "options": {
+      "en": ["21 days after being served with the summons and complaint", "30 days after being served", "14 days after being served", "60 days after the complaint is filed"],
+      "uk": ["21 дня після вручення повістки та позовної заяви", "30 днів після вручення", "14 днів після вручення", "60 днів після подання позову"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Rule 12(a)(1)(A)(i) gives a defendant 21 days after service. A defendant who waives service under Rule 4(d) gets 60 days from when the waiver request was sent, or 90 days if it was sent outside the United States.",
+      "uk": "Правило 12(a)(1)(A)(i) надає відповідачу 21 день після вручення. Відповідач, який відмовився від офіційного вручення за правилом 4(d), має 60 днів від дати надсилання запиту про відмову, або 90 днів, якщо запит надіслано за межі США."
+    }
+  },
+
+  {
+    "id": "crim-1",
+    "subject": "crim",
+    "question": {
+      "en": "At common law, murder is the unlawful killing of another human being with:",
+      "uk": "За загальним правом убивство (murder) — це протиправне позбавлення життя іншої людини з:"
+    },
+    "options": {
+      "en": ["Malice aforethought", "Premeditation and deliberation in every case", "A specific intent to kill in every case", "Criminal negligence"],
+      "uk": ["Заздалегідь обдуманим злим умислом (malice aforethought)", "Попереднім обдумуванням у кожному випадку", "Прямим умислом на вбивство в кожному випадку", "Злочинною недбалістю"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Malice aforethought can be shown by intent to kill, intent to cause serious bodily injury, depraved-heart recklessness, or the felony-murder rule. Premeditation is typically required only for statutory first-degree murder, and criminal negligence supports involuntary manslaughter.",
+      "uk": "Malice aforethought може виражатися в умислі на вбивство, умислі заподіяти тяжку тілесну шкоду, крайній безрозсудності (depraved heart) або в правилі felony murder. Попереднє обдумування зазвичай потрібне лише для вбивства першого ступеня за законом, а злочинна недбалість утворює необережне вбивство (involuntary manslaughter)."
+    }
+  },
+  {
+    "id": "crim-2",
+    "subject": "crim",
+    "question": {
+      "en": "Fay borrows a neighbor's ladder with permission, intending to return it the next day, but it is stolen from Fay's yard that night. Fay is:",
+      "uk": "Фей з дозволу сусіда позичає драбину, маючи намір повернути її наступного дня, але вночі драбину викрадають з подвір’я Фей. Фей:"
+    },
+    "options": {
+      "en": ["Not guilty of larceny, because there was no trespass and no intent to permanently deprive", "Guilty of larceny, because the ladder was lost", "Guilty of embezzlement", "Guilty of larceny by trick"],
+      "uk": ["Не винна в крадіжці (larceny), бо не було ні протиправного заволодіння, ні наміру позбавити власника майна назавжди", "Винна в крадіжці, бо драбину втрачено", "Винна в привласненні (embezzlement)", "Винна в крадіжці шляхом обману (larceny by trick)"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Larceny is the trespassory taking and carrying away of another's personal property with intent to permanently deprive. Borrowing with the owner's consent and an intent to return lacks both the trespass and the required intent.",
+      "uk": "Крадіжка (larceny) — це протиправне заволодіння та переміщення чужого рухомого майна з наміром назавжди позбавити власника цього майна. Позичання за згодою власника з наміром повернути не містить ні протиправного заволодіння, ні потрібного наміру."
+    }
+  },
+  {
+    "id": "crim-3",
+    "subject": "crim",
+    "question": {
+      "en": "Common law burglary requires the breaking and entering of:",
+      "uk": "Проникнення до житла (burglary) за загальним правом вимагає зламу та проникнення до:"
+    },
+    "options": {
+      "en": ["The dwelling of another, at night, with intent to commit a felony inside", "Any building, at any time, with intent to commit any crime", "A dwelling, during the day, with intent to steal", "Any structure, with intent to damage it"],
+      "uk": ["Чужого житла вночі з наміром учинити всередині тяжкий злочин (felony)", "Будь-якої будівлі будь-коли з наміром учинити будь-який злочин", "Житла вдень з наміром учинити крадіжку", "Будь-якої споруди з наміром її пошкодити"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "At common law, burglary is the breaking and entering of the dwelling house of another, at nighttime, with intent to commit a felony therein. Modern statutes often drop the dwelling and nighttime requirements.",
+      "uk": "За загальним правом burglary — це злам і проникнення до чужого житлового будинку вночі з наміром учинити там тяжкий злочин. Сучасні закони часто відмовляються від вимог щодо житла й нічного часу."
+    }
+  },
+  {
+    "id": "crim-4",
+    "subject": "crim",
+    "question": {
+      "en": "Under the Pinkerton rule, a conspirator is liable for crimes committed by co-conspirators that are:",
+      "uk": "Згідно з правилом Pinkerton учасник змови відповідає за злочини інших співучасників змови, які:"
+    },
+    "options": {
+      "en": ["Committed in furtherance of the conspiracy and reasonably foreseeable", "Personally approved by that conspirator in advance", "Committed before that conspirator joined", "Committed at any time, for any purpose"],
+      "uk": ["Учинені для досягнення мети змови та були обґрунтовано передбачуваними", "Особисто схвалені цим учасником заздалегідь", "Учинені до того, як цей учасник приєднався до змови", "Учинені будь-коли й з будь-якою метою"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Pinkerton v. United States makes each conspirator liable for co-conspirators' crimes committed in furtherance of the conspiracy that were reasonably foreseeable as its natural consequence. The Model Penal Code rejects this rule and requires accomplice liability instead.",
+      "uk": "Справа Pinkerton v. United States робить кожного учасника змови відповідальним за злочини співучасників, учинені для досягнення мети змови, якщо вони були обґрунтовано передбачуваним її природним наслідком. Модельний кримінальний кодекс (MPC) це правило відкидає й вимагає відповідальності за співучасть."
+    }
+  },
+  {
+    "id": "crim-5",
+    "subject": "crim",
+    "question": {
+      "en": "Under the M'Naghten test, a defendant is not guilty by reason of insanity if, because of a mental disease, the defendant:",
+      "uk": "Згідно з тестом M'Naghten обвинуваченого визнають невинуватим через неосудність, якщо внаслідок психічного захворювання обвинувачений:"
+    },
+    "options": {
+      "en": ["Did not know the nature and quality of the act, or did not know it was wrong", "Acted under an irresistible impulse", "Lacked substantial capacity to conform conduct to the law", "Committed an act that was the product of mental illness"],
+      "uk": ["Не усвідомлював природи й характеру діяння або того, що воно неправомірне", "Діяв під впливом непереборного імпульсу", "Не мав істотної здатності узгоджувати свою поведінку із законом", "Учинив діяння, яке було продуктом психічної хвороби"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "M'Naghten is a purely cognitive test. The irresistible impulse test adds a volitional prong, the Model Penal Code asks about substantial capacity to appreciate wrongfulness or conform conduct, and the Durham rule asks whether the act was the product of mental disease.",
+      "uk": "M'Naghten — суто когнітивний тест. Тест непереборного імпульсу додає вольовий критерій, Модельний кримінальний кодекс питає про істотну здатність усвідомлювати неправомірність або узгоджувати поведінку із законом, а правило Durham — чи було діяння продуктом психічної хвороби."
+    }
+  },
+
+  {
+    "id": "property-1",
+    "subject": "property",
+    "question": {
+      "en": "A person occupies a neighbor's land for 25 years with the owner's express permission. Which element of adverse possession is missing?",
+      "uk": "Особа 25 років користується земельною ділянкою сусіда з його прямого дозволу. Якого елемента набувальної давності (adverse possession) бракує?"
+    },
+    "options": {
+      "en": ["Hostility", "Actual possession", "Continuity", "Open and notorious possession"],
+      "uk": ["Ворожості (hostility), тобто володіння без дозволу", "Фактичного володіння", "Безперервності", "Відкритості й очевидності володіння"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Adverse possession requires possession that is actual, open and notorious, exclusive, hostile, and continuous for the statutory period. Possession with the owner's permission is not hostile, so the claim fails.",
+      "uk": "Набувальна давність вимагає володіння фактичного, відкритого й очевидного, виключного, ворожого та безперервного протягом установленого законом строку. Володіння з дозволу власника не є ворожим, тому вимога не підлягає задоволенню."
+    }
+  },
+  {
+    "id": "property-2",
+    "subject": "property",
+    "question": {
+      "en": "Under the common law Rule Against Perpetuities, an interest is void unless it must vest, if at all, within:",
+      "uk": "Згідно з правилом проти безстроковості (Rule Against Perpetuities) загального права майнове право є нікчемним, якщо воно не обов’язково набуде чинності (якщо взагалі набуде) протягом:"
+    },
+    "options": {
+      "en": ["21 years after some life in being at the creation of the interest", "21 years after the death of the grantor's last child", "99 years after the interest is created", "The lifetime of the grantee"],
+      "uk": ["21 року після смерті певної особи, що жила на момент створення права", "21 року після смерті останньої дитини відчужувача", "99 років після створення права", "Життя набувача"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "The common law rule voids a contingent interest if there is any possibility it could vest more than 21 years after the death of every relevant life in being when the interest was created. Many states have softened it with wait-and-see or 90-year (USRAP) rules.",
+      "uk": "Правило загального права визнає умовне майнове право нікчемним, якщо існує хоча б можливість, що воно набуде чинності пізніше ніж через 21 рік після смерті всіх відповідних осіб, які жили на момент його створення. Багато штатів пом’якшили його підходом «почекаймо й побачимо» (wait-and-see) або 90-річним строком (USRAP)."
+    }
+  },
+  {
+    "id": "property-3",
+    "subject": "property",
+    "question": {
+      "en": "The feature that distinguishes a joint tenancy from a tenancy in common is:",
+      "uk": "Ознака, яка відрізняє спільну сумісну власність (joint tenancy) від спільної часткової (tenancy in common):"
+    },
+    "options": {
+      "en": ["The right of survivorship", "Each co-owner's right to possess the whole property", "Each co-owner's ability to sell their interest", "Shared liability for property taxes"],
+      "uk": ["Право пережилого співвласника (right of survivorship)", "Право кожного співвласника володіти всім майном", "Можливість кожного співвласника продати свою частку", "Спільна відповідальність за податок на майно"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "When a joint tenant dies, that share passes automatically to the surviving joint tenants. Tenants in common have no right of survivorship: their shares pass by will or intestacy. Both forms give every co-owner the right to possess the whole.",
+      "uk": "Коли спільний сумісний власник помирає, його частка автоматично переходить до тих, хто його пережив. У спільній частковій власності такого права немає: частки переходять за заповітом або за законом. Обидві форми дають кожному співвласнику право володіти всім майном."
+    }
+  },
+  {
+    "id": "property-4",
+    "subject": "property",
+    "question": {
+      "en": "In a race-notice jurisdiction, a later purchaser prevails over an earlier, unrecorded grantee if the later purchaser:",
+      "uk": "У юрисдикції з системою race-notice пізніший покупець має перевагу над попереднім набувачем, який не зареєстрував право, якщо пізніший покупець:"
+    },
+    "options": {
+      "en": ["Paid value, took without notice of the earlier conveyance, and recorded first", "Recorded first, even with notice of the earlier conveyance", "Took without notice, even if never recording", "Paid more than the earlier grantee"],
+      "uk": ["Надав зустрічне задоволення, не знав про попереднє відчуження й зареєструвався першим", "Зареєструвався першим, навіть знаючи про попереднє відчуження", "Не знав про попереднє відчуження, навіть якщо так і не зареєструвався", "Заплатив більше, ніж попередній набувач"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Race-notice statutes protect a bona fide purchaser for value without notice who also records first. Pure race statutes ask only who recorded first, and pure notice statutes protect a bona fide purchaser without notice regardless of recording.",
+      "uk": "Закони типу race-notice захищають добросовісного набувача за плату без повідомлення (bona fide purchaser), який до того ж зареєструвався першим. Закони типу race враховують лише, хто зареєструвався першим, а закони типу notice захищають добросовісного набувача незалежно від реєстрації."
+    }
+  },
+  {
+    "id": "property-5",
+    "subject": "property",
+    "question": {
+      "en": "O conveys land \"to A so long as the land is used as a school.\" A holds:",
+      "uk": "O передає землю «A доти, доки земля використовується як школа». A має:"
+    },
+    "options": {
+      "en": ["A fee simple determinable, and O keeps a possibility of reverter", "A fee simple subject to condition subsequent, and O keeps a right of entry", "A fee simple absolute", "A life estate"],
+      "uk": ["Обмежене строком безумовне право (fee simple determinable), а O зберігає можливість повернення (possibility of reverter)", "Безумовне право зі скасувальною умовою (fee simple subject to condition subsequent), а O зберігає право повернення володіння (right of entry)", "Абсолютне безумовне право власності (fee simple absolute)", "Довічне право (life estate)"]
+    },
+    "answer": 0,
+    "explanation": {
+      "en": "Durational words such as \"so long as,\" \"while,\" or \"until\" create a fee simple determinable: if the land stops being used as a school, it reverts to O automatically. Conditional words such as \"but if\" or \"provided that,\" paired with a right to re-enter, create a fee simple subject to condition subsequent.",
+      "uk": "Слова тривалості на кшталт «доти, доки», «поки» чи «до» створюють fee simple determinable: якщо землю перестануть використовувати як школу, вона автоматично повертається до O. Умовні слова на кшталт «але якщо» чи «за умови, що» разом із правом повторного входження створюють fee simple subject to condition subsequent."
+    }
+  }
+]
